@@ -2,18 +2,20 @@ body {
   width: 550px;
   margin-left: auto;
   margin-right: auto;
-  color: black;
+  color: rgb(255, 255, 255);
   /*background-image: url("./images/background.jpg");*/
-  background-image: url("./images/grey.png");
+  background-color: black;
   padding: 1em;
 }
 p {
-  font-size: 12pt;
-  font-family: cursive;
+  font-size: 14pt;
+  font-family: monospace;
+  column-rule-color: azure;
 }
 h1 {
-  font-size: 48pt;
+  font-size: 42pt;
   font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   color: rgb(235, 211, 181);
   background-color:rgb(95, 84, 110)
 }

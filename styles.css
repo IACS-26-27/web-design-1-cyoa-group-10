@@ -4,7 +4,7 @@ body {
   margin-right: auto;
   color: black;
   /*background-image: url("./images/background.jpg");*/
-  background-color: url("./images/grey.png");
+  background-image: url("./images/grey.png");
   padding: 1em;
 }
 p {
@@ -14,5 +14,6 @@ p {
 h1 {
   font-size: 48pt;
   font-weight: bold;
-  color: rgb(94, 71, 129);
+  color: rgb(235, 211, 181);
+  background-color:rgb(95, 84, 110)
 }
